@@ -1,0 +1,1001 @@
+Customer ID,Email,Age,Gender,Time on App (minutes),Time on Web (minutes),Membership,Favorite Product Base,Demography,Annual Income (K$),Spending Score
+1,user1@kpriet.ac.in,63,Male,39,38,No,Books,Bangalore,261,23
+2,user2@gmail.com,38,Female,169,162,No,Groceries,Coimbatore,102,38
+3,user3@gmail.com,76,Female,178,116,No,Luxury & Beauty,Tiruppur,126,16
+4,user4@kpriet.ac.in,58,Female,41,167,Yes,Books,New Delhi,164,69
+5,user5@yahoo.com,67,Male,22,114,No,Books,Salem,64,95
+6,user6@outlook.com,66,Male,140,108,No,Electronics,Coimbatore,267,51
+7,user7@outlook.com,48,Male,149,114,Yes,Groceries,Chennai,86,22
+8,user8@outlook.com,64,Female,7,127,No,Luxury & Beauty,Bangalore,108,10
+9,user9@kpriet.ac.in,49,Male,161,103,No,Groceries,Salem,122,86
+10,user10@gmail.com,17,Male,171,6,No,Luxury & Beauty,Coimbatore,100,98
+11,user11@kpriet.ac.in,22,Male,47,14,No,Groceries,New Delhi,271,2
+12,user12@kpriet.ac.in,36,Female,117,141,No,Groceries,Bangalore,71,87
+13,user13@srm.ac.in,37,Male,94,56,No,Electronics,Bangalore,232,35
+14,user14@gmail.com,43,Male,59,100,Yes,Clothing,Coimbatore,272,20
+15,user15@srm.ac.in,20,Female,165,8,Yes,Groceries,Bangalore,175,57
+16,user16@hotmail.com,30,Male,43,,Yes,Luxury & Beauty,Bangalore,140,46
+17,user17@gmail.com,40,Female,110,140,No,Luxury & Beauty,Bangalore,127,23
+18,user18@gmail.com,32,Female,162,53,Yes,Electronics,Bangalore,44,28
+19,user19@gmail.com,80,Male,180,9,Yes,Clothing,Tiruppur,29,92
+20,user20@outlook.com,19,Female,118,178,Yes,Luxury & Beauty,Mumbai,203,5
+21,user21@outlook.com,30,Male,60,6,No,Electronics,Chennai,153,87
+22,user22@srm.ac.in,10,Female,27,165,No,Luxury & Beauty,Salem,202,69
+23,user23@srm.ac.in,62,Male,30,68,Yes,Books,Bangalore,101,28
+24,user24@gmail.com,67,Female,40,62,Yes,Groceries,New Delhi,109,57
+25,user25@srm.ac.in,70,Male,36,93,No,Clothing,Coimbatore,277,90
+26,user26@outlook.com,47,Male,155,84,Yes,Groceries,Salem,36,7
+27,user27@kpriet.ac.in,14,Male,103,38,Yes,Groceries,Bangalore,52,82
+28,user28@kpriet.ac.in,39,Male,94,31,Yes,Books,Tiruppur,192,67
+29,user29@kpriet.ac.in,46,Female,114,103,No,Clothing,Chennai,240,83
+30,user30@srm.ac.in,46,Male,85,133,No,Groceries,Salem,78,85
+31,user31@hotmail.com,68,Male,40,155,Yes,Electronics,Salem,136,92
+32,user32@outlook.com,19,Male,68,83,Yes,Luxury & Beauty,Bangalore,81,85
+33,user33@hotmail.com,39,Male,75,47,No,Luxury & Beauty,Salem,134,14
+34,user34@srm.ac.in,43,Female,170,21,Yes,Electronics,New Delhi,269,50
+35,user35@yahoo.com,35,Male,26,16,No,Luxury & Beauty,Bangalore,152,89
+36,user36@gmail.com,64,Female,68,81,Yes,Books,Coimbatore,194,40
+37,user37@outlook.com,24,Male,146,79,Yes,Electronics,Mumbai,201,57
+38,user38@kpriet.ac.in,79,Female,158,,No,Books,Chennai,43,7
+39,user39@hotmail.com,38,Female,158,138,No,Clothing,Kanpur,156,77
+40,user40@yahoo.com,29,Female,160,157,No,Luxury & Beauty,New Delhi,97,1
+41,user41@yahoo.com,44,Female,77,139,Yes,Books,Bangalore,283,7
+42,user42@outlook.com,28,Male,11,91,Yes,Luxury & Beauty,New Delhi,73,99
+43,user43@outlook.com,19,Female,173,116,No,Clothing,Salem,45,49
+44,user44@yahoo.com,17,Female,82,180,No,Groceries,Bangalore,244,99
+45,user45@gmail.com,31,Female,57,39,Yes,Luxury & Beauty,Chennai,254,26
+46,user46@gmail.com,49,Male,137,92,Yes,Clothing,Salem,76,32
+47,user47@hotmail.com,46,Male,160,130,No,Electronics,Coimbatore,74,48
+48,user48@gmail.com,66,Male,135,96,Yes,Luxury & Beauty,New Delhi,72,31
+49,user49@yahoo.com,25,Female,53,53,Yes,Electronics,Coimbatore,41,26
+50,user50@yahoo.com,69,Female,105,47,Yes,Clothing,Bangalore,279,12
+51,user51@srm.ac.in,48,Female,80,108,Yes,Electronics,New Delhi,73,3
+52,user52@yahoo.com,61,Female,170,9,Yes,Books,Salem,105,54
+53,user53@gmail.com,44,Male,18,63,No,Groceries,Mumbai,80,4
+54,user54@kpriet.ac.in,74,Female,66,62,Yes,Electronics,New Delhi,125,2
+55,user55@hotmail.com,79,Male,131,,Yes,Books,Chennai,205,44
+56,user56@srm.ac.in,73,Female,103,59,Yes,Groceries,Bangalore,100,25
+57,user57@gmail.com,66,Female,33,10,Yes,Clothing,Mumbai,169,88
+58,user58@hotmail.com,20,Female,66,155,No,Clothing,Coimbatore,246,86
+59,user59@gmail.com,15,Female,132,134,No,Luxury & Beauty,Chennai,279,9
+60,user60@srm.ac.in,65,Male,168,48,No,Books,Kanpur,275,29
+61,user61@yahoo.com,51,Female,157,36,No,Groceries,Tiruppur,70,13
+62,user62@kpriet.ac.in,42,Male,23,98,No,Luxury & Beauty,New Delhi,98,86
+63,user63@srm.ac.in,13,Female,140,171,Yes,Luxury & Beauty,Salem,206,22
+64,user64@yahoo.com,21,Male,8,14,Yes,Clothing,Mumbai,191,93
+65,user65@srm.ac.in,39,Female,97,101,Yes,Electronics,Salem,90,22
+66,user66@outlook.com,12,Male,86,168,Yes,Groceries,Chennai,82,6
+67,user67@kpriet.ac.in,44,Female,38,70,No,Clothing,Tiruppur,123,54
+68,user68@gmail.com,15,Female,104,141,No,Clothing,Tiruppur,244,66
+69,user69@gmail.com,32,Male,150,164,No,Electronics,Coimbatore,232,14
+70,user70@kpriet.ac.in,70,Male,112,17,No,Books,Tiruppur,23,42
+71,user71@outlook.com,76,Male,98,157,Yes,Books,Chennai,145,42
+72,user72@yahoo.com,66,Male,144,17,Yes,Groceries,Mumbai,262,72
+73,user73@gmail.com,45,Female,179,174,No,Electronics,New Delhi,194,81
+74,user74@outlook.com,33,Female,49,32,No,Electronics,Mumbai,166,25
+75,user75@gmail.com,65,Female,125,172,Yes,Luxury & Beauty,Kanpur,278,80
+76,user76@hotmail.com,72,Male,23,10,No,Electronics,Tiruppur,107,27
+77,user77@yahoo.com,21,Male,9,,Yes,Groceries,New Delhi,63,70
+78,user78@hotmail.com,70,Female,155,34,No,Electronics,Salem,156,51
+79,user79@kpriet.ac.in,54,Female,22,111,Yes,Luxury & Beauty,Chennai,210,55
+80,user80@yahoo.com,62,Male,8,118,Yes,Books,Salem,232,16
+81,user81@outlook.com,52,Male,72,102,No,Electronics,Kanpur,204,30
+82,user82@yahoo.com,51,Female,60,36,No,Electronics,Bangalore,145,28
+83,user83@yahoo.com,23,Female,15,145,Yes,Groceries,Kanpur,97,14
+84,user84@outlook.com,30,Female,20,69,No,Luxury & Beauty,Salem,291,46
+85,user85@kpriet.ac.in,52,Female,106,126,No,Electronics,Kanpur,235,42
+86,user86@yahoo.com,62,Female,134,44,No,Groceries,Salem,136,23
+87,user87@kpriet.ac.in,73,Male,78,57,No,Luxury & Beauty,Chennai,90,2
+88,user88@kpriet.ac.in,46,Male,165,180,No,Clothing,Coimbatore,239,52
+89,user89@kpriet.ac.in,61,Female,133,166,Yes,Luxury & Beauty,Salem,231,84
+90,user90@gmail.com,80,Female,111,7,No,Clothing,Salem,229,41
+91,user91@srm.ac.in,14,Male,113,82,No,Clothing,Coimbatore,254,2
+92,user92@kpriet.ac.in,68,Male,107,112,No,Luxury & Beauty,New Delhi,284,50
+93,user93@outlook.com,21,Female,26,174,Yes,Luxury & Beauty,Mumbai,205,28
+94,user94@srm.ac.in,50,Male,168,30,No,Groceries,Tiruppur,35,59
+95,user95@kpriet.ac.in,42,Male,142,174,Yes,Luxury & Beauty,New Delhi,246,29
+96,user96@outlook.com,51,Female,142,138,No,Books,Kanpur,94,9
+97,user97@outlook.com,24,Female,162,74,Yes,Electronics,New Delhi,25,85
+,,,,,,,,,,
+99,user99@hotmail.com,75,Female,76,160,Yes,Clothing,Bangalore,55,84
+100,user100@yahoo.com,10,Male,26,40,Yes,Clothing,Kanpur,63,80
+101,user101@kpriet.ac.in,79,Male,84,112,No,Luxury & Beauty,Kanpur,193,48
+102,user102@kpriet.ac.in,69,Female,25,31,No,Electronics,Bangalore,181,6
+103,user103@srm.ac.in,62,Male,135,135,No,Electronics,Mumbai,225,9
+104,user104@outlook.com,16,Female,57,163,Yes,Groceries,Bangalore,104,28
+105,user105@kpriet.ac.in,34,Female,44,35,No,Groceries,Tiruppur,242,53
+106,user106@yahoo.com,76,Female,142,77,Yes,Groceries,Coimbatore,51,39
+107,user107@gmail.com,56,Female,88,34,No,Electronics,New Delhi,221,99
+108,user108@outlook.com,73,Male,105,32,Yes,Clothing,Salem,38,77
+109,user109@gmail.com,66,Female,155,132,No,Groceries,Mumbai,97,64
+110,user110@yahoo.com,16,Male,167,55,No,Luxury & Beauty,Kanpur,49,14
+111,user111@hotmail.com,36,Male,171,160,Yes,Groceries,Mumbai,286,92
+112,user112@yahoo.com,44,Female,179,56,Yes,Luxury & Beauty,Chennai,171,69
+113,user113@gmail.com,80,Female,169,72,No,Luxury & Beauty,Kanpur,234,73
+114,user114@outlook.com,26,Male,21,138,No,Clothing,Coimbatore,225,22
+115,user115@srm.ac.in,46,Female,84,56,No,Luxury & Beauty,Kanpur,175,33
+116,user116@kpriet.ac.in,66,Female,116,96,Yes,Groceries,Bangalore,180,13
+117,user117@yahoo.com,72,Female,66,109,No,Clothing,New Delhi,196,77
+118,user118@outlook.com,25,Male,19,80,Yes,Clothing,Bangalore,24,42
+,,,,,,,,,,
+120,user120@hotmail.com,40,Male,27,15,No,Luxury & Beauty,Bangalore,290,90
+121,user121@hotmail.com,30,Female,116,145,Yes,Groceries,Kanpur,95,50
+122,user122@kpriet.ac.in,49,Female,34,132,Yes,Luxury & Beauty,Coimbatore,226,87
+123,user123@hotmail.com,80,Female,121,58,Yes,Groceries,New Delhi,248,99
+124,user124@outlook.com,11,Female,161,128,No,Books,Chennai,125,89
+125,user125@yahoo.com,80,Male,160,89,Yes,Electronics,Coimbatore,298,18
+126,user126@outlook.com,62,Male,19,65,Yes,Clothing,Coimbatore,246,43
+127,user127@outlook.com,21,Female,84,5,Yes,Electronics,New Delhi,196,23
+128,user128@kpriet.ac.in,38,Male,175,8,Yes,Books,New Delhi,227,82
+129,user129@srm.ac.in,24,Male,173,176,No,Electronics,Tiruppur,121,98
+130,user130@srm.ac.in,69,Male,49,27,Yes,Electronics,Chennai,174,89
+131,user131@yahoo.com,25,Male,35,33,Yes,Books,Chennai,63,41
+132,user132@kpriet.ac.in,29,Female,8,151,Yes,Electronics,Bangalore,38,86
+133,user133@srm.ac.in,73,Female,40,176,Yes,Electronics,Coimbatore,295,62
+134,user134@hotmail.com,47,Female,7,131,No,Books,Coimbatore,191,9
+135,user135@srm.ac.in,75,Male,46,43,Yes,Books,New Delhi,219,43
+136,user136@hotmail.com,44,Male,132,28,Yes,Clothing,Mumbai,84,3
+137,user137@yahoo.com,63,Female,93,135,No,Groceries,Coimbatore,286,78
+138,user138@outlook.com,71,Female,138,24,No,Groceries,Kanpur,296,75
+139,user139@outlook.com,70,Male,137,30,No,Books,Bangalore,165,58
+140,user140@srm.ac.in,41,Female,71,70,No,Groceries,New Delhi,129,49
+141,user141@hotmail.com,68,Female,47,169,No,Luxury & Beauty,Tiruppur,67,66
+142,user142@gmail.com,80,Female,100,64,No,Luxury & Beauty,Chennai,281,82
+143,user143@gmail.com,28,Female,37,121,Yes,Luxury & Beauty,Mumbai,179,95
+144,user144@gmail.com,59,Female,73,80,No,Clothing,Coimbatore,286,30
+145,user145@outlook.com,34,Female,35,72,No,Groceries,New Delhi,194,65
+146,user146@kpriet.ac.in,75,Male,12,123,Yes,Electronics,Mumbai,101,76
+147,user147@outlook.com,27,Female,90,17,Yes,Books,Salem,31,91
+148,user148@kpriet.ac.in,18,Female,114,30,Yes,Groceries,New Delhi,34,2
+149,user149@hotmail.com,45,Male,74,49,No,Clothing,Kanpur,296,30
+150,user150@srm.ac.in,63,Female,139,15,No,Electronics,Coimbatore,152,3
+151,user151@gmail.com,53,Female,21,79,Yes,Books,New Delhi,143,79
+152,user152@hotmail.com,74,Male,72,97,No,Electronics,Mumbai,175,98
+153,user153@hotmail.com,44,Female,152,178,No,Books,Salem,236,16
+154,user154@srm.ac.in,10,Female,165,85,Yes,Luxury & Beauty,Chennai,278,40
+155,user155@hotmail.com,46,Male,24,114,No,Books,Coimbatore,76,31
+156,user156@srm.ac.in,48,Male,132,34,Yes,Books,Bangalore,50,95
+157,user157@yahoo.com,72,Female,121,29,No,Clothing,Chennai,210,55
+158,user158@srm.ac.in,29,Male,135,16,No,Clothing,Bangalore,152,97
+159,user159@gmail.com,67,Female,97,7,Yes,Clothing,Salem,279,32
+160,user160@kpriet.ac.in,78,Male,19,40,Yes,Groceries,New Delhi,201,80
+161,user161@kpriet.ac.in,71,Male,132,174,Yes,Luxury & Beauty,Bangalore,83,11
+162,user162@gmail.com,54,Male,150,170,No,Luxury & Beauty,Salem,44,8
+163,user163@kpriet.ac.in,52,Male,47,48,Yes,Books,Bangalore,83,18
+164,user164@srm.ac.in,80,Male,99,89,No,Clothing,Chennai,249,48
+165,user165@yahoo.com,79,Male,45,96,No,Luxury & Beauty,Coimbatore,172,64
+166,user166@kpriet.ac.in,58,Female,70,117,No,Luxury & Beauty,Salem,22,38
+167,user167@yahoo.com,68,Female,31,164,Yes,Books,Kanpur,252,26
+168,user168@gmail.com,51,Female,151,73,No,Books,Salem,193,20
+169,user169@yahoo.com,34,Male,177,28,Yes,Electronics,Chennai,140,49
+170,user170@hotmail.com,40,Female,34,100,No,Electronics,Coimbatore,293,27
+171,user171@outlook.com,59,Male,63,92,No,Books,Coimbatore,139,83
+172,user172@hotmail.com,39,Female,135,51,No,Electronics,Mumbai,199,5
+173,user173@gmail.com,62,Female,5,34,No,Luxury & Beauty,Tiruppur,173,31
+174,user174@kpriet.ac.in,15,Male,16,107,Yes,Books,Bangalore,165,93
+175,user175@kpriet.ac.in,50,Male,8,107,No,Books,Mumbai,91,77
+176,user176@yahoo.com,70,Male,67,121,No,Clothing,Bangalore,213,57
+177,user177@srm.ac.in,58,Female,16,74,Yes,Luxury & Beauty,Salem,286,95
+178,user178@outlook.com,59,Female,125,103,No,Luxury & Beauty,Salem,146,43
+179,user179@srm.ac.in,29,Female,98,127,No,Groceries,Coimbatore,73,18
+180,user180@gmail.com,73,Female,103,112,No,Groceries,Coimbatore,187,36
+181,user181@kpriet.ac.in,14,Male,43,171,No,Clothing,Salem,284,41
+182,user182@yahoo.com,26,Female,50,47,No,Groceries,Mumbai,118,83
+183,user183@kpriet.ac.in,74,Female,14,33,No,Electronics,Salem,204,98
+184,user184@srm.ac.in,52,Female,146,38,Yes,Books,Bangalore,252,6
+185,user185@srm.ac.in,22,Female,172,20,Yes,Electronics,Chennai,70,67
+186,user186@outlook.com,66,Female,112,45,Yes,Luxury & Beauty,Bangalore,95,54
+187,user187@outlook.com,22,Male,62,31,Yes,Groceries,Coimbatore,237,83
+188,user188@yahoo.com,77,Male,87,111,No,Electronics,Salem,230,37
+189,user189@outlook.com,68,Female,68,156,Yes,Luxury & Beauty,New Delhi,61,97
+190,user190@srm.ac.in,11,Female,111,128,No,Groceries,Kanpur,67,4
+191,user191@srm.ac.in,28,Male,86,150,No,Books,Salem,51,30
+192,user192@gmail.com,62,Female,74,178,Yes,Books,Bangalore,237,94
+193,user193@srm.ac.in,29,Female,24,117,Yes,Groceries,Mumbai,86,43
+194,user194@yahoo.com,19,Male,151,51,Yes,Books,Tiruppur,263,44
+195,user195@hotmail.com,70,Female,100,161,No,Clothing,Bangalore,129,32
+196,user196@gmail.com,43,Female,35,102,Yes,Groceries,Tiruppur,248,27
+197,user197@gmail.com,53,Female,133,96,Yes,Clothing,Tiruppur,59,70
+198,user198@yahoo.com,60,Female,177,161,No,Groceries,Mumbai,209,7
+199,user199@yahoo.com,20,Female,18,12,No,Clothing,Kanpur,289,86
+200,user200@outlook.com,52,Female,50,180,Yes,Books,New Delhi,226,32
+201,user201@gmail.com,78,Male,62,38,No,Books,Mumbai,285,88
+202,user202@outlook.com,58,Female,137,128,No,Electronics,Mumbai,222,90
+203,user203@srm.ac.in,50,Female,16,129,No,Luxury & Beauty,Bangalore,155,93
+204,user204@gmail.com,72,Female,107,33,No,Clothing,Chennai,275,29
+205,user205@gmail.com,79,Male,22,110,Yes,Groceries,New Delhi,236,78
+206,user206@kpriet.ac.in,14,Female,124,117,No,Books,Salem,245,49
+207,user207@hotmail.com,18,Male,77,16,Yes,Books,Coimbatore,270,67
+208,user208@gmail.com,40,Female,84,21,Yes,Groceries,Salem,233,42
+209,user209@srm.ac.in,46,Male,88,71,Yes,Luxury & Beauty,Bangalore,103,24
+210,user210@outlook.com,39,Female,27,172,Yes,Groceries,New Delhi,93,57
+211,user211@outlook.com,21,Female,146,85,No,Clothing,Salem,278,81
+212,user212@kpriet.ac.in,65,Female,121,8,No,Clothing,Bangalore,85,1
+213,user213@hotmail.com,22,Female,7,178,Yes,Electronics,Coimbatore,268,9
+214,user214@srm.ac.in,22,Male,99,139,No,Groceries,Chennai,254,63
+215,user215@outlook.com,66,Male,56,152,No,Books,Mumbai,86,9
+216,user216@yahoo.com,31,Female,79,149,No,Electronics,Tiruppur,282,25
+217,user217@srm.ac.in,48,Female,149,62,No,Groceries,Bangalore,290,7
+218,user218@srm.ac.in,13,Male,82,176,No,Groceries,Bangalore,80,82
+219,user219@hotmail.com,15,Male,164,91,No,Books,Tiruppur,128,19
+220,user220@outlook.com,51,Male,67,137,No,Luxury & Beauty,Coimbatore,253,27
+221,user221@srm.ac.in,17,Male,123,138,Yes,Groceries,Bangalore,262,17
+222,user222@kpriet.ac.in,47,Male,99,163,No,Electronics,Tiruppur,36,12
+223,user223@kpriet.ac.in,55,Male,156,29,Yes,Books,Bangalore,100,23
+224,user224@outlook.com,57,Male,131,115,No,Clothing,Mumbai,209,76
+225,user225@kpriet.ac.in,65,Male,55,174,Yes,Luxury & Beauty,Kanpur,80,71
+226,user226@yahoo.com,28,Male,144,68,Yes,Books,Mumbai,229,27
+227,user227@hotmail.com,41,Female,67,128,No,Electronics,Mumbai,76,31
+228,user228@kpriet.ac.in,77,Female,43,93,No,Groceries,Chennai,81,65
+229,user229@kpriet.ac.in,62,Female,6,174,No,Electronics,New Delhi,209,11
+230,user230@yahoo.com,33,Male,109,178,No,Groceries,Kanpur,168,55
+231,user231@hotmail.com,31,Male,11,169,No,Books,Chennai,40,93
+232,user232@srm.ac.in,32,Male,64,103,Yes,Luxury & Beauty,Tiruppur,287,60
+233,user233@hotmail.com,20,Male,143,43,No,Books,Mumbai,98,40
+234,user234@gmail.com,58,Female,93,147,No,Electronics,Chennai,80,22
+235,user235@outlook.com,40,Female,167,161,No,Electronics,Chennai,210,93
+236,user236@outlook.com,73,Female,7,18,Yes,Clothing,New Delhi,176,26
+237,user237@gmail.com,28,Male,90,7,Yes,Clothing,Mumbai,211,32
+238,user238@yahoo.com,39,Female,5,169,No,Groceries,Coimbatore,175,55
+239,user239@gmail.com,69,Female,173,45,No,Electronics,Chennai,170,23
+240,user240@srm.ac.in,42,Female,101,134,No,Clothing,Mumbai,268,78
+241,user241@srm.ac.in,68,Male,83,125,Yes,Clothing,Coimbatore,34,32
+242,user242@outlook.com,42,Male,31,131,Yes,Books,Chennai,93,39
+243,user243@srm.ac.in,11,Male,57,47,Yes,Groceries,Mumbai,92,37
+244,user244@outlook.com,69,Male,140,24,No,Luxury & Beauty,Mumbai,235,74
+245,user245@gmail.com,46,Male,65,130,Yes,Books,Tiruppur,44,58
+246,user246@gmail.com,79,Female,112,87,No,Groceries,Tiruppur,176,82
+247,user247@kpriet.ac.in,30,Male,130,66,No,Groceries,Bangalore,165,26
+248,user248@kpriet.ac.in,19,Male,20,89,No,Books,Salem,130,35
+249,user249@gmail.com,66,Female,41,76,No,Clothing,Chennai,113,62
+250,user250@outlook.com,54,Female,76,17,No,Clothing,Mumbai,270,11
+251,user251@gmail.com,48,Male,28,134,No,Luxury & Beauty,Bangalore,21,47
+252,user252@gmail.com,64,Female,16,62,No,Luxury & Beauty,Coimbatore,82,51
+253,user253@yahoo.com,42,Male,64,145,No,Groceries,Salem,300,49
+254,user254@gmail.com,68,Male,138,169,No,Luxury & Beauty,Salem,198,22
+255,user255@srm.ac.in,48,Female,110,101,No,Books,Bangalore,54,61
+256,user256@outlook.com,35,Male,100,108,Yes,Luxury & Beauty,Tiruppur,42,57
+257,user257@yahoo.com,59,Female,122,65,Yes,Electronics,Mumbai,233,55
+258,user258@kpriet.ac.in,71,Female,26,25,Yes,Groceries,Mumbai,266,65
+259,user259@hotmail.com,23,Female,153,122,Yes,Electronics,Chennai,178,79
+260,user260@outlook.com,40,Female,29,118,Yes,Groceries,Tiruppur,251,95
+261,user261@srm.ac.in,58,Male,134,151,No,Groceries,Tiruppur,192,56
+262,user262@outlook.com,55,Female,39,119,Yes,Books,Coimbatore,213,98
+263,user263@kpriet.ac.in,47,Female,168,27,Yes,Clothing,Bangalore,263,20
+264,user264@srm.ac.in,47,Male,105,132,Yes,Luxury & Beauty,Chennai,87,62
+265,user265@srm.ac.in,12,Male,24,119,No,Electronics,Mumbai,90,3
+266,user266@hotmail.com,60,Female,156,85,Yes,Luxury & Beauty,Tiruppur,278,98
+267,user267@outlook.com,45,Male,150,35,Yes,Groceries,New Delhi,255,49
+268,user268@hotmail.com,11,Female,20,132,Yes,Electronics,Salem,250,55
+269,user269@hotmail.com,16,Female,116,172,No,Electronics,Bangalore,249,11
+270,user270@outlook.com,73,Male,174,9,Yes,Groceries,New Delhi,96,98
+271,user271@gmail.com,46,Male,38,31,Yes,Luxury & Beauty,Mumbai,186,39
+272,user272@gmail.com,39,Female,65,108,No,Electronics,Bangalore,65,77
+273,user273@kpriet.ac.in,55,Female,79,110,Yes,Luxury & Beauty,Salem,229,69
+274,user274@hotmail.com,38,Male,71,14,Yes,Electronics,Kanpur,218,20
+275,user275@yahoo.com,34,Male,85,147,No,Clothing,Kanpur,139,71
+276,user276@hotmail.com,42,Female,105,145,Yes,Books,Tiruppur,222,94
+277,user277@hotmail.com,27,Female,88,5,Yes,Groceries,Tiruppur,193,23
+278,user278@hotmail.com,22,Female,86,28,No,Books,Kanpur,296,33
+279,user279@kpriet.ac.in,15,Male,120,159,No,Luxury & Beauty,Mumbai,43,49
+280,user280@gmail.com,49,Female,74,163,Yes,Books,Salem,246,60
+281,user281@kpriet.ac.in,66,Male,64,168,Yes,Books,Mumbai,162,40
+282,user282@kpriet.ac.in,14,Male,24,82,No,Books,New Delhi,65,59
+283,user283@kpriet.ac.in,56,Male,56,135,No,Books,Mumbai,104,37
+284,user284@gmail.com,26,Female,39,148,Yes,Groceries,Bangalore,32,49
+285,user285@gmail.com,21,Female,154,57,Yes,Clothing,New Delhi,178,72
+286,user286@hotmail.com,47,Male,32,172,Yes,Clothing,Salem,83,78
+287,user287@kpriet.ac.in,51,Male,44,176,Yes,Books,Coimbatore,63,62
+288,user288@yahoo.com,63,Female,32,121,Yes,Clothing,Chennai,118,10
+289,user289@gmail.com,32,Female,47,92,No,Clothing,Mumbai,297,43
+290,user290@outlook.com,35,Male,120,98,No,Groceries,Salem,47,18
+291,user291@outlook.com,26,Female,124,18,No,Books,New Delhi,287,92
+,,,,,,,,,,
+293,user293@srm.ac.in,56,Female,109,121,No,Books,Kanpur,263,26
+294,user294@hotmail.com,77,Female,35,89,No,Clothing,Coimbatore,277,20
+,,,,,,,,,,
+296,user296@hotmail.com,44,Female,96,163,Yes,Clothing,Coimbatore,81,1
+297,user297@outlook.com,31,Female,58,158,No,Clothing,New Delhi,292,2
+298,user298@yahoo.com,42,Male,120,126,No,Electronics,Tiruppur,112,65
+299,user299@hotmail.com,71,Male,83,173,No,Electronics,Kanpur,29,94
+300,user300@outlook.com,47,Male,123,98,No,Electronics,Coimbatore,160,93
+301,user301@gmail.com,53,Female,72,120,No,Clothing,Kanpur,125,48
+302,user302@hotmail.com,24,Female,35,34,Yes,Books,Tiruppur,145,63
+303,user303@srm.ac.in,69,Male,28,29,Yes,Books,Mumbai,247,52
+304,user304@gmail.com,19,Female,45,173,No,Clothing,New Delhi,63,54
+305,user305@gmail.com,28,Female,180,61,No,Electronics,Salem,293,51
+306,user306@kpriet.ac.in,38,Male,82,5,No,Clothing,Bangalore,184,96
+307,user307@srm.ac.in,60,Female,159,92,No,Books,Chennai,225,48
+308,user308@gmail.com,56,Female,15,95,No,Books,New Delhi,43,50
+309,user309@gmail.com,21,Male,60,167,Yes,Groceries,Mumbai,271,63
+310,user310@outlook.com,60,Male,88,79,No,Books,Kanpur,31,40
+311,user311@outlook.com,11,Male,42,145,Yes,Groceries,New Delhi,194,83
+312,user312@hotmail.com,43,Female,28,138,Yes,Clothing,Mumbai,243,76
+313,user313@hotmail.com,78,Male,68,100,Yes,Books,Mumbai,112,10
+314,user314@hotmail.com,25,Female,96,32,No,Groceries,Bangalore,232,53
+315,user315@outlook.com,68,Female,106,16,No,Books,Kanpur,32,5
+316,user316@hotmail.com,57,Female,136,47,No,Groceries,Kanpur,290,16
+317,user317@gmail.com,43,Female,17,131,Yes,Books,Mumbai,182,50
+318,user318@outlook.com,58,Male,178,40,No,Books,Bangalore,215,73
+319,user319@hotmail.com,57,Male,81,109,No,Luxury & Beauty,Mumbai,151,21
+320,user320@gmail.com,23,Male,71,32,No,Clothing,Salem,66,25
+321,user321@hotmail.com,39,Female,49,70,Yes,Clothing,Tiruppur,78,98
+322,user322@yahoo.com,70,Female,12,161,No,Books,Salem,70,56
+323,user323@hotmail.com,13,Male,108,55,No,Groceries,Tiruppur,297,33
+324,user324@yahoo.com,51,Male,120,53,Yes,Electronics,Kanpur,106,99
+325,user325@hotmail.com,38,Male,147,35,Yes,Groceries,Mumbai,166,97
+326,user326@kpriet.ac.in,18,Male,145,105,No,Books,Tiruppur,93,93
+327,user327@kpriet.ac.in,69,Male,68,60,Yes,Clothing,Kanpur,113,45
+328,user328@srm.ac.in,48,Male,29,122,No,Groceries,New Delhi,150,66
+329,user329@kpriet.ac.in,62,Female,123,53,No,Luxury & Beauty,Coimbatore,65,91
+330,user330@kpriet.ac.in,24,Female,31,91,No,Books,Coimbatore,98,63
+331,user331@hotmail.com,27,Male,40,32,Yes,Groceries,Kanpur,177,82
+332,user332@outlook.com,15,Male,36,111,Yes,Groceries,Salem,228,89
+333,user333@outlook.com,14,Female,8,16,No,Luxury & Beauty,New Delhi,106,48
+334,user334@yahoo.com,48,Male,20,167,No,Electronics,Kanpur,50,90
+335,user335@outlook.com,73,Female,61,177,Yes,Electronics,New Delhi,186,8
+336,user336@gmail.com,24,Male,38,155,No,Groceries,Coimbatore,112,84
+337,user337@srm.ac.in,22,Female,55,36,Yes,Books,Bangalore,33,50
+338,user338@kpriet.ac.in,40,Male,107,120,No,Luxury & Beauty,New Delhi,49,55
+339,user339@srm.ac.in,78,Female,100,122,Yes,Electronics,Mumbai,172,95
+340,user340@gmail.com,27,Female,180,173,No,Groceries,Mumbai,219,32
+,,,,,,,,,,
+342,user342@yahoo.com,68,Female,170,134,No,Electronics,New Delhi,183,62
+343,user343@gmail.com,57,Female,26,39,No,Clothing,New Delhi,92,5
+344,user344@gmail.com,79,Male,154,132,Yes,Groceries,Tiruppur,231,47
+345,user345@srm.ac.in,63,Female,155,6,Yes,Luxury & Beauty,Bangalore,185,81
+346,user346@hotmail.com,29,Female,71,140,Yes,Books,Chennai,152,91
+347,user347@srm.ac.in,63,Male,24,17,Yes,Groceries,Mumbai,212,87
+348,user348@srm.ac.in,22,Male,10,146,No,Electronics,Chennai,81,4
+349,user349@outlook.com,72,Male,21,115,Yes,Groceries,Mumbai,46,90
+350,user350@gmail.com,62,Male,55,154,No,Groceries,New Delhi,123,86
+351,user351@srm.ac.in,45,Female,170,128,No,Electronics,Chennai,142,83
+352,user352@gmail.com,14,Female,118,135,No,Clothing,Bangalore,141,19
+353,user353@outlook.com,57,Male,37,50,No,Books,Kanpur,272,34
+354,user354@gmail.com,37,Male,28,153,Yes,Electronics,Salem,280,78
+355,user355@srm.ac.in,66,Male,89,49,No,Groceries,Bangalore,278,59
+356,user356@gmail.com,66,Female,36,37,Yes,Groceries,Coimbatore,217,88
+357,user357@kpriet.ac.in,40,Male,15,31,Yes,Luxury & Beauty,Mumbai,78,19
+358,user358@outlook.com,56,Female,123,104,Yes,Groceries,Mumbai,157,33
+359,user359@hotmail.com,22,Female,17,173,Yes,Electronics,New Delhi,51,32
+360,user360@gmail.com,57,Male,48,158,Yes,Luxury & Beauty,New Delhi,182,78
+361,user361@srm.ac.in,79,Male,151,160,Yes,Groceries,Tiruppur,257,75
+362,user362@outlook.com,55,Female,115,87,No,Electronics,Coimbatore,228,85
+363,user363@srm.ac.in,17,Female,106,134,No,Books,New Delhi,53,21
+364,user364@srm.ac.in,60,Female,132,103,Yes,Books,New Delhi,267,2
+365,user365@gmail.com,45,Female,12,112,No,Groceries,Coimbatore,34,15
+366,user366@srm.ac.in,34,Female,102,160,Yes,Books,Salem,228,99
+367,user367@gmail.com,25,Female,179,68,Yes,Groceries,Chennai,139,12
+368,user368@hotmail.com,68,Male,114,75,Yes,Luxury & Beauty,Chennai,29,83
+369,user369@kpriet.ac.in,21,Male,49,106,Yes,Books,Kanpur,157,92
+370,user370@srm.ac.in,37,Female,95,92,Yes,Luxury & Beauty,Mumbai,71,50
+371,user371@srm.ac.in,12,Male,59,80,No,Luxury & Beauty,Kanpur,146,51
+372,user372@srm.ac.in,16,Male,52,120,Yes,Luxury & Beauty,New Delhi,84,91
+373,user373@yahoo.com,52,Female,75,39,No,Clothing,Salem,175,76
+374,user374@yahoo.com,41,Male,76,40,No,Electronics,Kanpur,228,11
+375,user375@outlook.com,26,Male,119,110,No,Groceries,New Delhi,248,67
+376,user376@kpriet.ac.in,36,Male,43,159,No,Luxury & Beauty,New Delhi,62,25
+377,user377@kpriet.ac.in,18,Male,13,136,No,Groceries,Chennai,276,55
+378,user378@yahoo.com,80,Female,162,81,No,Luxury & Beauty,Chennai,124,22
+379,user379@outlook.com,36,Female,163,145,Yes,Electronics,Bangalore,92,55
+380,user380@yahoo.com,37,Female,162,85,No,Books,Coimbatore,211,33
+381,user381@hotmail.com,39,Female,67,146,Yes,Groceries,Bangalore,296,89
+382,user382@outlook.com,52,Male,170,166,Yes,Clothing,New Delhi,106,39
+383,user383@kpriet.ac.in,28,Male,80,60,Yes,Groceries,Kanpur,145,65
+384,user384@kpriet.ac.in,10,Female,132,56,No,Electronics,Bangalore,295,69
+385,user385@yahoo.com,45,Female,110,58,No,Luxury & Beauty,Coimbatore,236,85
+386,user386@hotmail.com,28,Male,145,164,Yes,Groceries,Kanpur,251,49
+387,user387@yahoo.com,26,Female,127,79,No,Electronics,New Delhi,41,76
+388,user388@gmail.com,79,Male,20,180,Yes,Luxury & Beauty,Mumbai,20,40
+389,user389@gmail.com,42,Male,27,93,Yes,Books,New Delhi,257,94
+390,user390@hotmail.com,32,Male,76,177,No,Electronics,New Delhi,168,53
+391,user391@srm.ac.in,24,Female,103,38,No,Clothing,New Delhi,105,97
+392,user392@srm.ac.in,13,Male,40,171,Yes,Groceries,Bangalore,20,94
+393,user393@gmail.com,26,Male,112,50,Yes,Electronics,Chennai,50,12
+394,user394@gmail.com,11,Male,56,133,Yes,Luxury & Beauty,Kanpur,266,14
+395,user395@srm.ac.in,55,Male,169,143,No,Luxury & Beauty,Coimbatore,159,82
+396,user396@outlook.com,40,Male,139,168,No,Clothing,New Delhi,148,74
+397,user397@srm.ac.in,51,Male,68,87,Yes,Groceries,Kanpur,214,100
+398,user398@yahoo.com,12,Female,166,34,Yes,Luxury & Beauty,Salem,199,45
+399,user399@outlook.com,32,Male,144,95,Yes,Luxury & Beauty,Coimbatore,128,19
+400,user400@yahoo.com,43,Male,9,148,No,Luxury & Beauty,Salem,281,35
+401,user401@gmail.com,16,Male,102,127,Yes,Electronics,Chennai,164,96
+402,user402@outlook.com,26,Female,96,154,Yes,Electronics,Chennai,43,27
+403,user403@yahoo.com,63,Female,127,151,No,Groceries,Chennai,102,96
+404,user404@yahoo.com,77,Male,144,175,No,Clothing,Bangalore,293,51
+405,user405@outlook.com,24,Male,129,111,No,Groceries,Salem,55,90
+406,user406@hotmail.com,18,Male,93,177,No,Clothing,Salem,173,40
+407,user407@srm.ac.in,70,Male,149,141,Yes,Books,Chennai,65,1
+408,user408@kpriet.ac.in,67,Female,133,78,Yes,Luxury & Beauty,Salem,222,22
+409,user409@yahoo.com,56,Male,87,113,Yes,Clothing,Kanpur,82,63
+410,user410@srm.ac.in,75,Female,104,8,No,Luxury & Beauty,Mumbai,91,1
+411,user411@kpriet.ac.in,23,Female,74,138,No,Clothing,Kanpur,163,13
+412,user412@srm.ac.in,67,Male,51,32,No,Books,Salem,241,9
+413,user413@gmail.com,74,Female,11,11,Yes,Clothing,Salem,127,100
+414,user414@kpriet.ac.in,38,Male,86,102,No,Groceries,Kanpur,278,90
+415,user415@srm.ac.in,15,Male,157,42,Yes,Electronics,Salem,182,54
+416,user416@yahoo.com,76,Female,61,18,Yes,Luxury & Beauty,Chennai,195,68
+417,user417@kpriet.ac.in,48,Female,12,176,Yes,Electronics,Tiruppur,153,54
+418,user418@gmail.com,68,Female,76,19,Yes,Clothing,Tiruppur,251,84
+419,user419@outlook.com,13,Male,19,56,No,Groceries,Tiruppur,159,37
+420,user420@yahoo.com,17,Male,125,73,No,Clothing,Coimbatore,145,94
+421,user421@gmail.com,71,Female,140,46,Yes,Books,Mumbai,184,56
+422,user422@gmail.com,61,Female,96,78,Yes,Books,Mumbai,194,22
+423,user423@kpriet.ac.in,64,Male,154,179,No,Books,Coimbatore,127,23
+424,user424@srm.ac.in,23,Female,64,69,Yes,Clothing,Mumbai,255,48
+425,user425@outlook.com,72,Female,45,42,No,Books,Salem,188,24
+426,user426@yahoo.com,66,Female,30,20,Yes,Clothing,Bangalore,28,91
+,,,,,,,,,,
+428,user428@srm.ac.in,20,Female,173,57,Yes,Groceries,Salem,21,26
+429,user429@outlook.com,51,Male,66,143,No,Luxury & Beauty,Chennai,263,63
+430,user430@kpriet.ac.in,28,Female,73,13,Yes,Electronics,New Delhi,22,24
+431,user431@yahoo.com,18,Female,141,96,No,Luxury & Beauty,Kanpur,24,65
+432,user432@outlook.com,26,Male,19,120,Yes,Electronics,Kanpur,108,15
+433,user433@kpriet.ac.in,45,Female,61,31,Yes,Electronics,Coimbatore,231,58
+434,user434@kpriet.ac.in,80,Male,152,162,Yes,Clothing,Chennai,270,73
+435,user435@yahoo.com,51,Male,104,177,No,Books,New Delhi,221,28
+436,user436@srm.ac.in,58,Female,95,148,Yes,Books,Chennai,295,24
+437,user437@hotmail.com,77,Male,49,62,No,Books,Salem,61,26
+438,user438@yahoo.com,47,Female,50,170,Yes,Luxury & Beauty,Kanpur,59,8
+439,user439@gmail.com,68,Male,65,148,Yes,Books,Kanpur,295,96
+440,user440@gmail.com,74,Female,156,104,No,Groceries,Salem,35,24
+441,user441@kpriet.ac.in,65,Female,86,65,Yes,Clothing,Mumbai,247,98
+442,user442@hotmail.com,22,Male,96,135,Yes,Books,New Delhi,83,25
+443,user443@yahoo.com,24,Female,156,78,Yes,Books,Mumbai,200,34
+444,user444@gmail.com,80,Male,12,175,No,Books,Tiruppur,212,53
+445,user445@gmail.com,37,Female,95,17,Yes,Luxury & Beauty,Salem,203,57
+446,user446@yahoo.com,65,Male,150,102,No,Clothing,New Delhi,218,81
+447,user447@outlook.com,67,Female,149,104,No,Groceries,Salem,110,80
+448,user448@kpriet.ac.in,39,Male,41,111,No,Books,Bangalore,24,14
+449,user449@yahoo.com,62,Female,149,180,Yes,Electronics,Coimbatore,83,82
+450,user450@outlook.com,53,Female,53,85,Yes,Luxury & Beauty,Salem,256,22
+451,user451@kpriet.ac.in,68,Male,131,146,No,Books,Kanpur,209,11
+452,user452@hotmail.com,61,Male,143,18,No,Books,Tiruppur,118,38
+453,user453@srm.ac.in,63,Male,84,8,Yes,Luxury & Beauty,New Delhi,247,11
+454,user454@kpriet.ac.in,22,Female,49,69,No,Groceries,Mumbai,24,49
+455,user455@hotmail.com,50,Female,130,56,Yes,Electronics,Tiruppur,133,16
+456,user456@srm.ac.in,64,Male,14,163,No,Electronics,Coimbatore,30,36
+457,user457@gmail.com,50,Male,28,118,No,Groceries,Coimbatore,163,9
+458,user458@gmail.com,42,Male,19,62,No,Luxury & Beauty,Chennai,203,44
+459,user459@gmail.com,57,Male,64,167,No,Books,Coimbatore,118,4
+460,user460@kpriet.ac.in,29,Female,159,170,Yes,Groceries,Kanpur,66,75
+461,user461@outlook.com,70,Male,61,99,Yes,Luxury & Beauty,Tiruppur,175,31
+462,user462@srm.ac.in,18,Female,10,155,No,Luxury & Beauty,Mumbai,133,62
+463,user463@gmail.com,21,Female,139,144,No,Luxury & Beauty,Mumbai,139,63
+464,user464@yahoo.com,20,Male,127,159,No,Luxury & Beauty,Salem,272,87
+465,user465@srm.ac.in,21,Male,5,55,No,Electronics,Coimbatore,205,98
+466,user466@srm.ac.in,65,Male,89,54,Yes,Luxury & Beauty,Mumbai,38,13
+467,user467@outlook.com,22,Male,162,80,Yes,Groceries,New Delhi,163,2
+468,user468@hotmail.com,57,Female,56,119,Yes,Books,Kanpur,272,8
+469,user469@outlook.com,26,Male,38,50,No,Books,Tiruppur,127,35
+470,user470@gmail.com,17,Male,92,179,No,Clothing,Salem,23,97
+471,user471@yahoo.com,52,Female,50,24,No,Groceries,Mumbai,120,1
+472,user472@yahoo.com,25,Male,87,52,No,Clothing,Coimbatore,222,86
+473,user473@gmail.com,62,Female,20,49,No,Groceries,Coimbatore,76,75
+474,user474@yahoo.com,55,Female,10,136,Yes,Luxury & Beauty,Kanpur,162,6
+475,user475@outlook.com,64,Female,42,35,No,Clothing,Salem,276,13
+476,user476@kpriet.ac.in,16,Female,155,101,Yes,Luxury & Beauty,Tiruppur,272,28
+477,user477@outlook.com,46,Female,41,15,Yes,Groceries,Kanpur,107,67
+478,user478@kpriet.ac.in,49,Female,33,114,No,Electronics,Kanpur,119,1
+479,user479@gmail.com,55,Female,139,76,Yes,Electronics,Coimbatore,109,49
+480,user480@yahoo.com,23,Female,98,147,No,Electronics,New Delhi,53,78
+481,user481@srm.ac.in,74,Female,23,72,Yes,Electronics,Bangalore,85,67
+482,user482@hotmail.com,37,Female,100,38,No,Books,Chennai,53,98
+483,user483@srm.ac.in,29,Male,174,46,Yes,Electronics,Bangalore,85,35
+484,user484@kpriet.ac.in,71,Female,106,154,No,Groceries,New Delhi,152,63
+485,user485@outlook.com,38,Female,155,70,Yes,Electronics,Tiruppur,136,61
+486,user486@outlook.com,23,Male,30,6,No,Books,New Delhi,287,97
+487,user487@outlook.com,54,Female,91,89,No,Luxury & Beauty,Coimbatore,160,44
+488,user488@outlook.com,57,Female,82,124,No,Clothing,Kanpur,118,78
+489,user489@hotmail.com,24,Female,87,44,No,Luxury & Beauty,Chennai,31,55
+490,user490@gmail.com,45,Male,39,15,Yes,Luxury & Beauty,Tiruppur,292,44
+491,user491@outlook.com,38,Male,45,44,Yes,Clothing,Salem,149,48
+492,user492@kpriet.ac.in,64,Male,116,87,Yes,Electronics,New Delhi,252,88
+493,user493@yahoo.com,13,Male,168,157,Yes,Electronics,Bangalore,21,44
+494,user494@hotmail.com,44,Female,129,18,Yes,Groceries,Tiruppur,238,41
+495,user495@kpriet.ac.in,13,Female,171,165,Yes,Electronics,Bangalore,46,31
+496,user496@kpriet.ac.in,33,Female,86,162,Yes,Electronics,Coimbatore,185,47
+497,user497@outlook.com,44,Male,49,174,Yes,Groceries,Kanpur,241,86
+498,user498@yahoo.com,49,Male,148,82,Yes,Clothing,Kanpur,228,52
+499,user499@outlook.com,53,Female,162,130,No,Groceries,Salem,160,49
+500,user500@kpriet.ac.in,54,Male,96,151,Yes,Electronics,Mumbai,82,79
+501,user501@gmail.com,10,Female,62,145,Yes,Electronics,Tiruppur,285,8
+502,user502@hotmail.com,33,Male,175,96,Yes,Electronics,Kanpur,258,46
+503,user503@gmail.com,28,Female,155,23,No,Groceries,Coimbatore,273,43
+504,user504@hotmail.com,61,Female,49,86,No,Clothing,Coimbatore,205,13
+505,user505@outlook.com,18,Female,101,139,No,Books,Bangalore,284,1
+506,user506@outlook.com,28,Female,83,61,Yes,Groceries,Coimbatore,42,59
+507,user507@hotmail.com,13,Female,80,52,No,Clothing,Tiruppur,134,90
+508,user508@yahoo.com,21,Female,37,138,Yes,Electronics,Kanpur,44,52
+509,user509@yahoo.com,77,Male,50,22,Yes,Clothing,Tiruppur,162,93
+510,user510@outlook.com,37,Female,5,134,Yes,Luxury & Beauty,Mumbai,235,18
+511,user511@outlook.com,58,Male,151,45,Yes,Luxury & Beauty,Bangalore,292,4
+512,user512@gmail.com,63,Male,105,111,No,Books,Tiruppur,249,78
+513,user513@kpriet.ac.in,68,Female,150,144,Yes,Electronics,Chennai,181,16
+514,user514@outlook.com,53,Male,13,142,No,Books,Tiruppur,22,68
+515,user515@hotmail.com,30,Male,51,108,Yes,Luxury & Beauty,Coimbatore,220,36
+516,user516@yahoo.com,57,Male,159,28,No,Books,New Delhi,119,90
+517,user517@yahoo.com,49,Male,86,94,No,Luxury & Beauty,New Delhi,191,97
+518,user518@gmail.com,51,Male,161,61,No,Luxury & Beauty,Kanpur,61,32
+519,user519@yahoo.com,20,Male,61,59,Yes,Clothing,Kanpur,32,48
+520,user520@yahoo.com,16,Female,168,174,No,Electronics,Chennai,135,58
+521,user521@kpriet.ac.in,29,Male,149,89,Yes,Luxury & Beauty,Tiruppur,236,80
+522,user522@srm.ac.in,30,Male,31,89,Yes,Electronics,Bangalore,58,88
+523,user523@hotmail.com,16,Male,132,97,No,Books,Coimbatore,147,85
+524,user524@kpriet.ac.in,20,Male,41,80,Yes,Books,Bangalore,120,61
+525,user525@srm.ac.in,44,Male,89,60,Yes,Luxury & Beauty,Chennai,104,66
+526,user526@yahoo.com,66,Male,24,163,Yes,Electronics,Coimbatore,188,53
+527,user527@gmail.com,64,Female,65,140,Yes,Luxury & Beauty,Coimbatore,179,85
+528,user528@gmail.com,72,Female,93,126,Yes,Luxury & Beauty,Bangalore,52,25
+529,user529@yahoo.com,66,Male,86,148,No,Clothing,Chennai,69,1
+530,user530@outlook.com,63,Female,47,171,Yes,Books,New Delhi,34,82
+531,user531@srm.ac.in,44,Female,167,7,Yes,Electronics,Chennai,265,42
+532,user532@yahoo.com,37,Male,27,34,Yes,Books,Chennai,241,3
+533,user533@gmail.com,75,Male,176,176,Yes,Clothing,Mumbai,32,82
+534,user534@gmail.com,24,Female,168,93,No,Groceries,Salem,191,47
+535,user535@srm.ac.in,54,Male,90,119,Yes,Books,Coimbatore,148,6
+536,user536@hotmail.com,65,Male,119,66,No,Clothing,Mumbai,146,95
+537,user537@yahoo.com,24,Female,7,169,No,Books,Kanpur,75,42
+538,user538@kpriet.ac.in,46,Female,72,162,No,Electronics,Salem,262,87
+539,user539@yahoo.com,72,Male,58,164,Yes,Clothing,Mumbai,142,57
+540,user540@hotmail.com,77,Female,68,67,Yes,Groceries,Kanpur,194,30
+541,user541@srm.ac.in,49,Male,22,15,Yes,Books,Bangalore,47,78
+542,user542@srm.ac.in,15,Male,94,179,No,Clothing,Tiruppur,190,63
+543,user543@gmail.com,38,Male,70,87,No,Groceries,Mumbai,286,52
+544,user544@hotmail.com,60,Male,32,102,Yes,Electronics,Mumbai,141,95
+545,user545@srm.ac.in,17,Male,5,34,No,Books,Coimbatore,57,79
+,,,,,,,,,,
+547,user547@yahoo.com,36,Female,103,70,No,Electronics,Mumbai,68,45
+548,user548@gmail.com,48,Female,117,143,No,Electronics,Tiruppur,248,55
+549,user549@kpriet.ac.in,37,Female,112,77,No,Electronics,Mumbai,83,61
+550,user550@hotmail.com,27,Female,47,11,No,Electronics,Salem,63,85
+551,user551@gmail.com,42,Male,110,137,No,Groceries,Salem,51,90
+552,user552@srm.ac.in,47,Female,131,100,No,Luxury & Beauty,Kanpur,37,13
+553,user553@srm.ac.in,51,Female,101,136,Yes,Books,Tiruppur,213,94
+554,user554@kpriet.ac.in,25,Female,94,135,Yes,Electronics,Kanpur,180,50
+555,user555@kpriet.ac.in,10,Male,144,119,No,Books,Tiruppur,53,38
+556,user556@kpriet.ac.in,73,Male,101,129,No,Clothing,Bangalore,85,78
+557,user557@kpriet.ac.in,65,Female,30,16,No,Electronics,Mumbai,51,25
+558,user558@kpriet.ac.in,32,Male,127,80,No,Electronics,Bangalore,246,92
+559,user559@outlook.com,26,Male,152,171,No,Books,Tiruppur,48,19
+560,user560@yahoo.com,58,Male,171,54,No,Luxury & Beauty,Coimbatore,174,67
+561,user561@hotmail.com,78,Female,180,87,Yes,Clothing,New Delhi,241,74
+562,user562@gmail.com,39,Female,62,136,Yes,Luxury & Beauty,Kanpur,53,92
+563,user563@kpriet.ac.in,74,Female,46,26,No,Books,Coimbatore,72,65
+564,user564@yahoo.com,55,Female,120,29,Yes,Groceries,Chennai,48,5
+565,user565@srm.ac.in,19,Male,23,47,Yes,Electronics,New Delhi,46,17
+566,user566@yahoo.com,60,Male,13,142,No,Groceries,Salem,170,64
+567,user567@kpriet.ac.in,15,Male,80,141,Yes,Books,Mumbai,215,12
+568,user568@gmail.com,65,Male,10,6,No,Books,Salem,225,39
+569,user569@kpriet.ac.in,12,Female,86,165,Yes,Books,Kanpur,69,87
+570,user570@yahoo.com,68,Female,71,21,Yes,Books,New Delhi,230,71
+571,user571@srm.ac.in,19,Female,31,58,No,Electronics,Tiruppur,139,60
+572,user572@yahoo.com,50,Male,23,176,Yes,Groceries,Coimbatore,25,22
+573,user573@kpriet.ac.in,64,Male,92,166,No,Clothing,Bangalore,252,58
+574,user574@hotmail.com,61,Male,48,59,Yes,Electronics,Salem,216,15
+575,user575@yahoo.com,63,Male,101,180,Yes,Books,New Delhi,257,62
+576,user576@hotmail.com,47,Female,46,113,Yes,Books,Salem,239,85
+577,user577@kpriet.ac.in,24,Female,24,31,No,Electronics,Coimbatore,71,70
+578,user578@yahoo.com,61,Male,145,57,No,Groceries,Chennai,193,31
+579,user579@srm.ac.in,12,Male,28,142,Yes,Groceries,Chennai,33,32
+580,user580@outlook.com,51,Female,91,116,Yes,Luxury & Beauty,Chennai,252,28
+581,user581@outlook.com,31,Male,157,170,No,Luxury & Beauty,Tiruppur,284,22
+582,user582@hotmail.com,68,Male,162,23,No,Luxury & Beauty,Coimbatore,188,97
+583,user583@kpriet.ac.in,56,Female,128,180,Yes,Books,Kanpur,118,85
+584,user584@hotmail.com,21,Male,12,44,Yes,Electronics,Coimbatore,75,90
+585,user585@kpriet.ac.in,65,Male,115,11,No,Electronics,Salem,72,12
+586,user586@kpriet.ac.in,23,Male,172,122,No,Luxury & Beauty,Mumbai,26,14
+587,user587@outlook.com,41,Female,47,89,Yes,Groceries,Tiruppur,54,56
+588,user588@srm.ac.in,65,Male,160,14,No,Luxury & Beauty,New Delhi,119,92
+589,user589@srm.ac.in,61,Female,116,27,Yes,Electronics,Kanpur,84,4
+590,user590@yahoo.com,77,Male,45,23,Yes,Books,Chennai,280,21
+591,user591@hotmail.com,20,Male,18,18,No,Luxury & Beauty,Kanpur,151,42
+592,user592@srm.ac.in,60,Female,30,50,No,Clothing,Coimbatore,201,50
+593,user593@gmail.com,49,Female,89,69,Yes,Clothing,Coimbatore,235,99
+594,user594@yahoo.com,53,Female,57,147,No,Groceries,Mumbai,266,36
+595,user595@yahoo.com,38,Male,53,23,Yes,Electronics,Tiruppur,247,29
+596,user596@outlook.com,52,Male,109,152,No,Books,Coimbatore,115,93
+597,user597@hotmail.com,31,Female,146,63,Yes,Clothing,Tiruppur,144,33
+598,user598@srm.ac.in,19,Male,143,71,No,Luxury & Beauty,Bangalore,90,86
+599,user599@srm.ac.in,75,Male,72,109,Yes,Books,New Delhi,42,61
+600,user600@kpriet.ac.in,24,Female,174,104,Yes,Electronics,Salem,50,86
+601,user601@yahoo.com,77,Male,77,120,No,Luxury & Beauty,Kanpur,85,16
+602,user602@hotmail.com,75,Male,81,166,No,Books,Chennai,179,86
+603,user603@hotmail.com,34,Female,65,108,No,Electronics,Coimbatore,243,18
+604,user604@hotmail.com,54,Female,29,115,No,Books,Mumbai,282,69
+605,user605@kpriet.ac.in,54,Female,17,85,Yes,Clothing,New Delhi,203,82
+606,user606@outlook.com,28,Male,105,9,Yes,Clothing,New Delhi,179,93
+607,user607@srm.ac.in,40,Female,151,104,Yes,Electronics,Kanpur,297,63
+608,user608@hotmail.com,23,Female,145,177,No,Clothing,Salem,94,12
+609,user609@kpriet.ac.in,28,Female,130,35,Yes,Electronics,Kanpur,95,89
+610,user610@outlook.com,42,Male,44,141,No,Groceries,Mumbai,260,43
+611,user611@kpriet.ac.in,35,Female,18,6,Yes,Clothing,Bangalore,178,29
+612,user612@gmail.com,32,Female,97,169,No,Books,Coimbatore,195,74
+613,user613@yahoo.com,29,Female,5,163,Yes,Books,Mumbai,169,99
+614,user614@srm.ac.in,19,Male,114,21,No,Electronics,Salem,208,77
+615,user615@kpriet.ac.in,32,Female,27,154,Yes,Groceries,Kanpur,24,9
+616,user616@kpriet.ac.in,73,Male,80,16,Yes,Luxury & Beauty,Salem,285,83
+617,user617@srm.ac.in,69,Female,174,23,Yes,Books,New Delhi,94,44
+618,user618@yahoo.com,67,Male,165,96,No,Groceries,Chennai,49,49
+619,user619@gmail.com,51,Male,158,133,No,Books,Chennai,141,92
+620,user620@outlook.com,50,Male,127,32,Yes,Electronics,Bangalore,279,96
+621,user621@kpriet.ac.in,29,Female,56,79,Yes,Electronics,New Delhi,47,95
+622,user622@yahoo.com,66,Male,29,180,No,Luxury & Beauty,Bangalore,236,93
+623,user623@outlook.com,18,Female,11,82,No,Electronics,Chennai,196,49
+624,user624@outlook.com,70,Male,57,160,No,Luxury & Beauty,Kanpur,120,84
+625,user625@outlook.com,66,Female,48,27,Yes,Electronics,Tiruppur,122,83
+626,user626@gmail.com,48,Female,168,77,Yes,Books,Coimbatore,123,72
+627,user627@gmail.com,45,Female,79,117,No,Electronics,Salem,55,56
+628,user628@outlook.com,17,Male,25,102,Yes,Clothing,Mumbai,194,30
+629,user629@hotmail.com,55,Male,126,106,No,Groceries,Mumbai,116,29
+630,user630@srm.ac.in,74,Male,34,174,Yes,Books,Bangalore,263,34
+631,user631@gmail.com,19,Female,83,12,No,Groceries,Tiruppur,259,15
+632,user632@hotmail.com,49,Female,106,126,No,Clothing,Bangalore,189,38
+633,user633@hotmail.com,69,Female,125,45,Yes,Groceries,Kanpur,191,12
+634,user634@kpriet.ac.in,67,Female,130,141,No,Clothing,Salem,173,15
+635,user635@srm.ac.in,14,Male,174,61,No,Electronics,New Delhi,234,12
+636,user636@outlook.com,17,Male,72,39,Yes,Electronics,New Delhi,188,44
+637,user637@kpriet.ac.in,57,Male,28,105,Yes,Clothing,Bangalore,103,95
+638,user638@kpriet.ac.in,46,Male,169,144,No,Books,Coimbatore,73,76
+639,user639@hotmail.com,19,Female,144,80,Yes,Electronics,Bangalore,252,25
+,,,,,,,,,,
+641,user641@hotmail.com,74,Female,52,41,No,Groceries,Coimbatore,273,15
+642,user642@outlook.com,59,Male,99,81,Yes,Electronics,Tiruppur,132,74
+643,user643@outlook.com,69,Male,102,178,Yes,Clothing,Mumbai,21,48
+644,user644@kpriet.ac.in,80,Male,99,170,Yes,Clothing,Kanpur,134,17
+645,user645@kpriet.ac.in,15,Female,52,100,Yes,Electronics,Salem,137,41
+646,user646@gmail.com,67,Male,119,7,No,Clothing,Bangalore,258,49
+647,user647@gmail.com,34,Female,16,146,No,Electronics,Kanpur,129,74
+648,user648@hotmail.com,51,Female,72,147,No,Luxury & Beauty,Kanpur,142,95
+649,user649@outlook.com,70,Male,117,41,Yes,Electronics,Tiruppur,266,1
+650,user650@outlook.com,74,Female,124,36,Yes,Books,Chennai,189,40
+651,user651@kpriet.ac.in,29,Female,72,15,No,Groceries,Chennai,212,8
+652,user652@srm.ac.in,17,Female,62,6,No,Clothing,Tiruppur,125,76
+653,user653@hotmail.com,67,Male,73,151,No,Groceries,Mumbai,224,69
+654,user654@gmail.com,23,Male,149,157,No,Electronics,New Delhi,114,25
+655,user655@srm.ac.in,53,Male,20,105,Yes,Electronics,Tiruppur,23,50
+656,user656@outlook.com,20,Female,43,142,No,Electronics,Coimbatore,205,55
+657,user657@gmail.com,74,Male,175,145,No,Books,Bangalore,25,41
+658,user658@hotmail.com,32,Male,29,26,Yes,Groceries,Chennai,57,99
+659,user659@outlook.com,15,Female,26,83,No,Groceries,Kanpur,203,47
+660,user660@hotmail.com,41,Female,176,58,Yes,Clothing,Kanpur,35,87
+661,user661@kpriet.ac.in,66,Female,93,93,No,Electronics,Coimbatore,78,17
+662,user662@srm.ac.in,66,Female,143,59,No,Clothing,Bangalore,92,67
+663,user663@srm.ac.in,77,Male,110,110,Yes,Books,Mumbai,168,85
+664,user664@srm.ac.in,76,Male,155,170,No,Luxury & Beauty,Salem,245,78
+665,user665@yahoo.com,30,Male,63,136,Yes,Books,Bangalore,119,76
+666,user666@hotmail.com,56,Female,146,41,Yes,Luxury & Beauty,Mumbai,204,29
+667,user667@srm.ac.in,57,Female,20,46,Yes,Electronics,Chennai,42,14
+668,user668@kpriet.ac.in,46,Female,104,52,No,Groceries,Kanpur,35,51
+669,user669@srm.ac.in,59,Female,138,61,Yes,Groceries,New Delhi,121,2
+670,user670@hotmail.com,62,Female,112,162,Yes,Clothing,New Delhi,121,69
+671,user671@srm.ac.in,53,Male,142,69,Yes,Luxury & Beauty,Mumbai,165,59
+672,user672@hotmail.com,16,Female,180,54,Yes,Clothing,Tiruppur,109,41
+673,user673@outlook.com,52,Female,126,34,Yes,Electronics,Tiruppur,132,19
+674,user674@kpriet.ac.in,18,Male,151,51,Yes,Groceries,Tiruppur,154,38
+675,user675@hotmail.com,52,Female,65,176,No,Clothing,Coimbatore,109,29
+676,user676@hotmail.com,22,Male,126,150,Yes,Luxury & Beauty,Coimbatore,193,64
+677,user677@yahoo.com,59,Female,81,18,No,Electronics,New Delhi,145,88
+678,user678@outlook.com,46,Male,25,145,Yes,Electronics,Kanpur,111,59
+679,user679@kpriet.ac.in,42,Male,106,123,No,Luxury & Beauty,Bangalore,120,19
+680,user680@yahoo.com,29,Female,13,170,No,Clothing,Kanpur,31,77
+681,user681@srm.ac.in,52,Male,133,145,No,Books,Tiruppur,110,37
+682,user682@hotmail.com,20,Female,151,23,Yes,Clothing,Tiruppur,154,19
+683,user683@kpriet.ac.in,28,Female,137,79,No,Luxury & Beauty,Coimbatore,71,96
+684,user684@outlook.com,54,Female,151,176,Yes,Groceries,Tiruppur,30,86
+685,user685@yahoo.com,49,Female,178,22,Yes,Clothing,Kanpur,90,90
+686,user686@hotmail.com,60,Female,163,69,Yes,Books,Bangalore,214,5
+687,user687@gmail.com,26,Female,42,30,No,Clothing,Kanpur,76,77
+688,user688@kpriet.ac.in,20,Female,35,55,No,Groceries,Bangalore,193,41
+689,user689@yahoo.com,49,Male,119,153,Yes,Electronics,Chennai,127,40
+690,user690@outlook.com,58,Female,49,129,Yes,Clothing,Coimbatore,176,65
+691,user691@yahoo.com,52,Female,47,89,No,Electronics,Coimbatore,253,89
+692,user692@yahoo.com,26,Male,59,96,Yes,Groceries,Tiruppur,142,16
+693,user693@yahoo.com,77,Female,54,37,No,Books,New Delhi,209,36
+694,user694@srm.ac.in,21,Female,37,176,Yes,Clothing,Tiruppur,210,91
+695,user695@gmail.com,64,Male,15,172,Yes,Electronics,Salem,107,74
+696,user696@outlook.com,75,Female,113,65,No,Books,New Delhi,289,62
+697,user697@outlook.com,56,Female,25,30,Yes,Electronics,Mumbai,242,81
+698,user698@outlook.com,12,Female,179,77,No,Electronics,Chennai,53,28
+699,user699@hotmail.com,56,Female,116,163,Yes,Electronics,New Delhi,80,64
+700,user700@kpriet.ac.in,49,Male,56,22,No,Clothing,Bangalore,93,38
+701,user701@outlook.com,33,Female,165,54,Yes,Electronics,Salem,86,91
+702,user702@kpriet.ac.in,37,Female,42,86,Yes,Groceries,Kanpur,117,49
+703,user703@outlook.com,53,Female,157,129,No,Luxury & Beauty,Tiruppur,118,8
+704,user704@gmail.com,72,Female,71,120,No,Books,Kanpur,292,43
+705,user705@hotmail.com,34,Female,86,89,No,Books,Kanpur,213,20
+706,user706@hotmail.com,38,Male,22,162,Yes,Clothing,Coimbatore,211,92
+707,user707@yahoo.com,27,Male,27,173,Yes,Clothing,Mumbai,182,27
+708,user708@srm.ac.in,29,Male,104,83,No,Clothing,Mumbai,239,94
+709,user709@hotmail.com,19,Male,147,154,No,Luxury & Beauty,Chennai,145,29
+710,user710@hotmail.com,47,Female,106,44,Yes,Groceries,Chennai,43,90
+711,user711@gmail.com,22,Male,146,149,No,Books,Salem,116,95
+712,user712@outlook.com,74,Female,88,150,Yes,Books,Tiruppur,294,7
+713,user713@hotmail.com,79,Female,75,98,No,Clothing,New Delhi,170,100
+714,user714@hotmail.com,77,Male,138,85,No,Clothing,Salem,96,23
+715,user715@srm.ac.in,14,Female,122,114,Yes,Groceries,Chennai,187,63
+716,user716@kpriet.ac.in,53,Female,8,48,Yes,Electronics,Chennai,146,94
+717,user717@gmail.com,26,Male,164,6,Yes,Groceries,Coimbatore,47,51
+718,user718@srm.ac.in,58,Female,155,85,No,Clothing,Kanpur,163,39
+719,user719@hotmail.com,29,Male,138,68,Yes,Books,Coimbatore,84,85
+720,user720@hotmail.com,30,Female,112,61,Yes,Groceries,Kanpur,280,21
+721,user721@gmail.com,33,Male,33,169,Yes,Electronics,Salem,270,3
+722,user722@yahoo.com,31,Female,111,116,No,Luxury & Beauty,Bangalore,127,71
+723,user723@yahoo.com,66,Female,43,75,No,Luxury & Beauty,Chennai,61,51
+724,user724@hotmail.com,15,Male,42,97,No,Books,Bangalore,260,44
+725,user725@hotmail.com,62,Female,150,39,No,Electronics,Coimbatore,53,55
+726,user726@srm.ac.in,56,Female,155,178,Yes,Groceries,Bangalore,105,87
+727,user727@kpriet.ac.in,40,Female,154,89,Yes,Clothing,New Delhi,280,61
+728,user728@kpriet.ac.in,66,Female,30,127,No,Clothing,Salem,218,45
+729,user729@srm.ac.in,46,Male,32,123,No,Electronics,New Delhi,280,97
+730,user730@srm.ac.in,67,Female,149,119,No,Groceries,Bangalore,211,51
+731,user731@outlook.com,39,Male,30,96,No,Electronics,Mumbai,275,51
+732,user732@hotmail.com,78,Male,78,83,Yes,Groceries,Salem,285,10
+733,user733@outlook.com,40,Male,142,129,No,Luxury & Beauty,Kanpur,257,68
+734,user734@yahoo.com,49,Female,93,146,Yes,Groceries,Bangalore,111,94
+735,user735@hotmail.com,70,Male,110,32,No,Groceries,Coimbatore,184,37
+736,user736@hotmail.com,34,Male,72,49,No,Clothing,Mumbai,211,37
+737,user737@gmail.com,57,Female,103,170,Yes,Books,Salem,289,90
+738,user738@hotmail.com,66,Female,172,160,No,Clothing,Chennai,267,25
+739,user739@yahoo.com,69,Female,129,25,Yes,Luxury & Beauty,Bangalore,273,90
+740,user740@kpriet.ac.in,46,Male,151,76,Yes,Electronics,New Delhi,262,71
+741,user741@kpriet.ac.in,58,Male,160,40,No,Clothing,Coimbatore,157,51
+742,user742@hotmail.com,74,Male,126,142,No,Electronics,Salem,225,13
+743,user743@kpriet.ac.in,77,Female,14,55,Yes,Clothing,Kanpur,38,17
+744,user744@outlook.com,63,Male,49,72,Yes,Books,Coimbatore,126,42
+745,user745@hotmail.com,30,Male,75,165,No,Books,Coimbatore,132,97
+746,user746@outlook.com,35,Female,108,24,Yes,Clothing,Coimbatore,123,75
+747,user747@srm.ac.in,27,Female,41,24,No,Clothing,Salem,251,7
+748,user748@srm.ac.in,42,Female,163,9,Yes,Electronics,Kanpur,140,91
+749,user749@gmail.com,16,Female,160,134,Yes,Electronics,Bangalore,222,39
+750,user750@hotmail.com,71,Male,179,166,No,Luxury & Beauty,Salem,131,59
+751,user751@srm.ac.in,57,Female,107,12,No,Luxury & Beauty,New Delhi,176,84
+752,user752@srm.ac.in,80,Male,14,153,No,Clothing,Bangalore,237,21
+753,user753@kpriet.ac.in,23,Female,106,153,No,Books,New Delhi,213,74
+754,user754@gmail.com,76,Male,89,108,Yes,Luxury & Beauty,Chennai,100,18
+755,user755@gmail.com,25,Female,65,156,Yes,Luxury & Beauty,Tiruppur,211,57
+756,user756@kpriet.ac.in,46,Female,17,59,Yes,Groceries,Bangalore,150,90
+757,user757@hotmail.com,20,Male,126,14,Yes,Books,Chennai,63,62
+758,user758@outlook.com,30,Male,73,146,Yes,Electronics,Tiruppur,88,38
+759,user759@hotmail.com,44,Male,100,71,No,Electronics,Bangalore,63,19
+760,user760@outlook.com,67,Female,10,144,Yes,Electronics,Chennai,171,27
+761,user761@gmail.com,75,Female,91,143,No,Groceries,New Delhi,247,28
+762,user762@yahoo.com,28,Female,82,125,Yes,Clothing,Coimbatore,285,96
+763,user763@hotmail.com,65,Female,84,172,Yes,Clothing,Bangalore,200,26
+764,user764@yahoo.com,21,Male,76,43,No,Electronics,New Delhi,137,95
+765,user765@outlook.com,38,Female,130,98,Yes,Books,Kanpur,41,84
+766,user766@hotmail.com,67,Female,180,105,Yes,Groceries,Mumbai,258,2
+767,user767@yahoo.com,54,Female,30,62,Yes,Electronics,New Delhi,282,47
+768,user768@yahoo.com,13,Male,63,155,No,Electronics,Chennai,192,93
+769,user769@hotmail.com,63,Female,39,79,Yes,Clothing,New Delhi,238,74
+770,user770@yahoo.com,16,Female,81,39,Yes,Books,Salem,250,14
+771,user771@hotmail.com,60,Female,118,123,No,Groceries,New Delhi,259,87
+772,user772@yahoo.com,74,Male,87,133,No,Groceries,New Delhi,241,19
+773,user773@gmail.com,57,Female,73,135,No,Luxury & Beauty,New Delhi,229,49
+774,user774@hotmail.com,40,Male,111,28,No,Books,Mumbai,208,55
+775,user775@gmail.com,59,,,,,,,,
+776,user776@kpriet.ac.in,20,Male,170,98,No,Luxury & Beauty,Mumbai,182,22
+777,user777@srm.ac.in,57,Female,27,133,Yes,Clothing,Salem,159,8
+778,user778@gmail.com,38,Male,53,7,Yes,Electronics,Mumbai,215,13
+,,,,,,,,,,
+780,user780@outlook.com,50,Male,59,66,Yes,Clothing,Coimbatore,111,61
+781,user781@kpriet.ac.in,22,Male,109,162,Yes,Electronics,Bangalore,246,23
+782,user782@gmail.com,52,Male,129,180,Yes,Clothing,Bangalore,139,7
+783,user783@kpriet.ac.in,28,Female,137,47,No,Books,Coimbatore,155,16
+784,user784@gmail.com,27,Female,100,136,Yes,Clothing,Tiruppur,58,66
+785,user785@gmail.com,14,Female,19,40,Yes,Books,Chennai,203,84
+786,user786@outlook.com,46,Male,136,119,Yes,Clothing,Bangalore,62,44
+787,user787@outlook.com,70,Female,45,45,Yes,Electronics,Kanpur,170,76
+788,user788@gmail.com,27,Male,21,50,No,Books,Mumbai,276,56
+789,user789@srm.ac.in,70,Male,84,149,Yes,Groceries,Tiruppur,282,20
+790,user790@outlook.com,67,Female,134,149,No,Books,New Delhi,299,81
+791,user791@outlook.com,10,Female,108,173,Yes,Electronics,Mumbai,60,93
+792,user792@outlook.com,20,Male,39,42,No,Books,Salem,161,52
+793,user793@hotmail.com,12,Male,139,128,No,Clothing,Chennai,136,32
+794,user794@kpriet.ac.in,42,Female,150,96,Yes,Clothing,Coimbatore,70,5
+795,user795@gmail.com,37,Female,12,15,No,Groceries,Mumbai,80,16
+796,user796@srm.ac.in,29,Female,49,61,No,Books,Kanpur,56,31
+797,user797@outlook.com,80,Male,54,129,No,Clothing,Salem,204,51
+798,user798@hotmail.com,77,Male,56,64,Yes,Books,Mumbai,39,63
+799,user799@kpriet.ac.in,64,Male,19,21,Yes,Luxury & Beauty,Salem,299,39
+800,user800@yahoo.com,24,Female,68,72,Yes,Clothing,Bangalore,122,89
+801,user801@yahoo.com,46,Male,13,99,Yes,Books,Chennai,190,77
+802,user802@outlook.com,40,Male,121,64,Yes,Clothing,Mumbai,120,23
+803,user803@srm.ac.in,48,Male,17,15,No,Luxury & Beauty,New Delhi,188,84
+804,user804@srm.ac.in,25,Female,97,176,Yes,Luxury & Beauty,New Delhi,148,96
+805,user805@kpriet.ac.in,16,Female,55,57,No,Clothing,New Delhi,174,49
+806,user806@kpriet.ac.in,40,Male,75,137,No,Luxury & Beauty,Coimbatore,160,100
+807,user807@gmail.com,63,Female,99,97,Yes,Clothing,Chennai,117,89
+808,user808@outlook.com,68,Male,123,104,Yes,Electronics,Salem,90,86
+809,user809@yahoo.com,18,Female,,125,Yes,Groceries,Chennai,298,85
+810,user810@gmail.com,24,Female,106,121,Yes,Electronics,New Delhi,153,12
+811,user811@srm.ac.in,73,Female,167,16,Yes,Luxury & Beauty,Salem,24,100
+812,user812@gmail.com,78,Female,36,15,No,Clothing,Bangalore,173,60
+813,user813@yahoo.com,12,Female,179,171,No,Electronics,Tiruppur,164,84
+814,user814@srm.ac.in,75,Male,12,87,No,Books,Chennai,197,49
+815,user815@kpriet.ac.in,40,Female,66,31,No,Books,Coimbatore,226,36
+816,user816@hotmail.com,28,Female,100,138,Yes,Books,Salem,227,81
+817,user817@hotmail.com,47,Female,130,167,No,Clothing,Chennai,26,84
+818,user818@kpriet.ac.in,64,Male,157,75,No,Luxury & Beauty,Mumbai,261,57
+819,user819@outlook.com,10,Female,119,72,Yes,Clothing,Kanpur,282,48
+820,user820@gmail.com,55,Male,50,153,No,Luxury & Beauty,Mumbai,96,2
+821,user821@srm.ac.in,40,Male,126,144,No,Groceries,Kanpur,223,16
+822,user822@kpriet.ac.in,63,Female,155,150,No,Clothing,Coimbatore,136,15
+823,user823@kpriet.ac.in,33,Male,146,49,Yes,Groceries,Bangalore,136,11
+824,user824@outlook.com,20,Male,94,101,Yes,Clothing,Tiruppur,127,16
+825,user825@gmail.com,77,Female,93,172,No,Groceries,Kanpur,262,63
+826,user826@kpriet.ac.in,56,Male,46,101,No,Groceries,Mumbai,139,83
+827,user827@yahoo.com,18,Male,71,98,Yes,Clothing,Chennai,284,86
+828,user828@kpriet.ac.in,77,Female,28,155,Yes,Electronics,Tiruppur,259,66
+,,,,,,,,,,
+830,user830@gmail.com,74,Female,12,24,Yes,Groceries,Kanpur,194,3
+831,user831@srm.ac.in,74,Female,103,137,No,Books,Kanpur,63,76
+832,user832@gmail.com,80,Male,17,69,Yes,Clothing,Coimbatore,180,74
+833,user833@yahoo.com,12,Female,46,101,Yes,Groceries,Bangalore,116,74
+834,user834@srm.ac.in,59,Female,151,62,No,Books,Mumbai,239,62
+835,user835@hotmail.com,70,Male,59,137,No,Books,Coimbatore,233,36
+836,user836@kpriet.ac.in,15,Female,61,108,No,Luxury & Beauty,New Delhi,127,89
+837,user837@yahoo.com,59,Male,170,95,No,Electronics,Kanpur,244,96
+838,user838@gmail.com,57,Male,62,93,No,Books,Coimbatore,250,13
+839,user839@srm.ac.in,42,Female,178,129,No,Clothing,Bangalore,35,76
+840,user840@kpriet.ac.in,12,Female,57,128,Yes,Clothing,Salem,211,24
+841,user841@yahoo.com,55,Male,73,159,No,Luxury & Beauty,Mumbai,91,50
+842,user842@gmail.com,18,Male,171,6,No,Books,Salem,85,62
+843,user843@hotmail.com,54,Female,,133,Yes,Groceries,Tiruppur,176,83
+844,user844@hotmail.com,40,Female,136,40,Yes,Clothing,New Delhi,24,90
+845,user845@gmail.com,23,Male,10,117,No,Groceries,New Delhi,275,56
+846,user846@hotmail.com,52,Female,179,47,No,Clothing,Kanpur,201,39
+847,user847@yahoo.com,27,Male,7,63,Yes,Groceries,New Delhi,193,74
+848,user848@kpriet.ac.in,15,Female,126,24,Yes,Electronics,Coimbatore,135,17
+849,user849@hotmail.com,55,Male,38,136,Yes,Books,Kanpur,234,13
+850,user850@kpriet.ac.in,79,Male,170,169,Yes,Electronics,Mumbai,237,42
+851,user851@outlook.com,53,Female,49,76,No,Electronics,Kanpur,226,9
+852,user852@hotmail.com,32,Female,158,59,No,Books,Salem,295,92
+853,user853@outlook.com,69,Female,7,43,No,Groceries,Bangalore,173,69
+854,user854@kpriet.ac.in,71,Female,62,52,No,Electronics,Kanpur,186,24
+855,user855@srm.ac.in,33,Female,69,45,Yes,Books,Kanpur,31,52
+856,user856@kpriet.ac.in,27,Female,160,97,Yes,Groceries,Mumbai,36,90
+857,user857@yahoo.com,18,Female,83,159,No,Books,Chennai,91,3
+858,user858@srm.ac.in,68,Male,169,35,Yes,Books,Salem,98,51
+859,user859@srm.ac.in,14,Male,75,174,No,Electronics,New Delhi,189,72
+860,user860@hotmail.com,47,Male,113,63,Yes,Books,Tiruppur,220,69
+861,user861@hotmail.com,35,Male,101,111,No,Books,Bangalore,215,68
+862,user862@hotmail.com,15,Female,94,89,No,Clothing,New Delhi,124,63
+863,user863@kpriet.ac.in,35,Male,122,34,Yes,Electronics,Mumbai,220,9
+864,user864@srm.ac.in,15,Female,69,128,Yes,Groceries,Coimbatore,52,67
+865,user865@yahoo.com,50,Male,60,177,Yes,Electronics,New Delhi,293,75
+866,user866@yahoo.com,49,Female,124,127,Yes,Books,Kanpur,217,69
+867,user867@outlook.com,75,Male,82,127,No,Clothing,Mumbai,116,92
+868,user868@gmail.com,60,Female,178,58,No,Clothing,New Delhi,263,84
+869,user869@yahoo.com,79,Female,138,156,Yes,Luxury & Beauty,Coimbatore,75,16
+870,user870@hotmail.com,70,Male,164,46,No,Luxury & Beauty,Bangalore,188,97
+871,user871@outlook.com,42,Male,106,170,Yes,Clothing,Bangalore,251,97
+872,user872@hotmail.com,14,Female,154,110,No,Electronics,Coimbatore,175,27
+873,user873@srm.ac.in,34,Female,31,10,No,Electronics,Tiruppur,67,85
+874,user874@srm.ac.in,46,Male,6,67,Yes,Books,Kanpur,107,16
+875,user875@kpriet.ac.in,55,Female,135,16,Yes,Luxury & Beauty,Coimbatore,73,24
+,,,,,,,,,,
+877,user877@yahoo.com,52,Female,100,151,Yes,Books,Mumbai,36,89
+878,user878@gmail.com,44,Male,148,156,Yes,Groceries,Chennai,270,24
+879,user879@hotmail.com,25,Male,170,46,Yes,Groceries,Mumbai,33,1
+880,user880@yahoo.com,57,Female,157,39,Yes,Electronics,Kanpur,115,72
+881,user881@outlook.com,65,Male,160,166,Yes,Books,Kanpur,121,58
+882,user882@hotmail.com,61,Female,77,136,No,Books,Mumbai,55,41
+883,user883@outlook.com,66,Female,81,15,No,Clothing,New Delhi,217,16
+884,user884@yahoo.com,59,Female,180,151,No,Books,Coimbatore,165,6
+885,user885@yahoo.com,53,Male,32,42,No,Clothing,Salem,125,17
+886,user886@yahoo.com,33,Female,128,19,No,Luxury & Beauty,Coimbatore,139,74
+887,user887@yahoo.com,73,Male,21,47,Yes,Books,Mumbai,169,27
+888,user888@srm.ac.in,73,Male,91,71,Yes,Electronics,Chennai,288,84
+889,user889@kpriet.ac.in,57,Male,75,51,Yes,Electronics,Mumbai,55,21
+890,user890@yahoo.com,76,Female,168,137,Yes,Books,New Delhi,252,12
+891,user891@srm.ac.in,44,Female,88,108,Yes,Luxury & Beauty,Bangalore,49,72
+892,user892@gmail.com,20,Male,75,158,No,Groceries,Bangalore,208,33
+893,user893@srm.ac.in,64,Male,71,149,Yes,Electronics,Kanpur,285,97
+894,user894@outlook.com,20,Male,172,168,No,Luxury & Beauty,Chennai,25,5
+895,user895@gmail.com,65,Male,171,9,No,Books,Mumbai,107,11
+896,user896@outlook.com,33,Male,81,174,No,Luxury & Beauty,Kanpur,187,16
+897,user897@kpriet.ac.in,79,Female,53,77,Yes,Groceries,Coimbatore,230,65
+898,user898@hotmail.com,47,Female,43,26,No,Groceries,Salem,220,39
+899,user899@hotmail.com,51,Male,137,60,Yes,Groceries,New Delhi,100,47
+900,user900@srm.ac.in,23,Female,66,119,Yes,Clothing,New Delhi,76,70
+901,user901@outlook.com,20,Female,19,160,No,Electronics,Coimbatore,86,22
+902,user902@kpriet.ac.in,51,Female,158,125,No,Groceries,Salem,294,55
+903,user903@hotmail.com,47,Female,108,128,No,Luxury & Beauty,Bangalore,234,85
+904,user904@kpriet.ac.in,49,Male,174,48,No,Electronics,Tiruppur,264,1
+905,user905@kpriet.ac.in,67,Male,86,61,Yes,Groceries,Bangalore,55,32
+906,user906@hotmail.com,64,Female,179,110,Yes,Luxury & Beauty,Mumbai,219,39
+907,user907@hotmail.com,31,Male,40,158,Yes,Electronics,Coimbatore,125,6
+908,user908@gmail.com,66,Female,11,41,No,Electronics,Mumbai,86,67
+909,user909@gmail.com,54,Male,172,154,Yes,Books,Kanpur,125,38
+910,user910@yahoo.com,67,Male,132,51,Yes,Luxury & Beauty,Chennai,178,85
+911,user911@outlook.com,15,Male,80,164,Yes,Books,Chennai,241,69
+912,user912@hotmail.com,55,Male,71,173,Yes,Groceries,Kanpur,263,57
+913,user913@kpriet.ac.in,65,Female,112,135,Yes,Electronics,Mumbai,101,18
+914,user914@outlook.com,45,Male,108,72,No,Luxury & Beauty,Chennai,178,74
+915,user915@yahoo.com,17,Female,104,47,Yes,Luxury & Beauty,Bangalore,123,63
+916,user916@kpriet.ac.in,19,Female,14,180,Yes,Clothing,New Delhi,277,89
+917,user917@srm.ac.in,61,Male,154,92,Yes,Groceries,New Delhi,254,41
+918,user918@yahoo.com,56,Female,151,121,No,Electronics,Kanpur,161,67
+919,user919@hotmail.com,75,Female,53,157,No,Groceries,New Delhi,123,46
+920,user920@srm.ac.in,30,Female,92,156,Yes,Clothing,Coimbatore,23,78
+921,user921@srm.ac.in,13,Female,61,22,Yes,Clothing,Salem,93,69
+922,user922@yahoo.com,28,Male,180,63,Yes,Luxury & Beauty,Kanpur,248,66
+923,user923@hotmail.com,66,Male,141,101,No,Clothing,Coimbatore,52,27
+924,user924@kpriet.ac.in,14,Female,168,103,Yes,Groceries,Mumbai,224,89
+925,user925@srm.ac.in,26,Female,126,38,Yes,Electronics,Bangalore,146,13
+926,user926@yahoo.com,18,Female,176,32,No,Books,Bangalore,289,85
+927,user927@yahoo.com,40,Female,96,9,Yes,Groceries,Chennai,188,6
+928,user928@kpriet.ac.in,56,Female,134,56,No,Clothing,Tiruppur,271,31
+929,user929@hotmail.com,56,Female,81,138,No,Clothing,Mumbai,255,5
+930,user930@yahoo.com,59,Male,48,134,Yes,Luxury & Beauty,Chennai,256,25
+931,user931@yahoo.com,14,Male,173,180,Yes,Luxury & Beauty,Tiruppur,40,19
+932,user932@yahoo.com,29,Female,147,112,No,Luxury & Beauty,Chennai,66,39
+933,user933@outlook.com,67,Female,51,43,No,Groceries,Tiruppur,167,28
+934,user934@gmail.com,57,Male,80,160,No,Books,New Delhi,253,18
+935,user935@kpriet.ac.in,57,Female,29,29,No,Luxury & Beauty,Bangalore,197,78
+936,user936@outlook.com,66,Male,125,50,Yes,Electronics,Tiruppur,172,71
+937,user937@yahoo.com,19,Female,37,126,No,Electronics,Kanpur,220,28
+938,user938@gmail.com,27,Male,71,162,Yes,Luxury & Beauty,Tiruppur,109,76
+939,user939@kpriet.ac.in,77,Female,148,158,No,Luxury & Beauty,Mumbai,232,46
+940,user940@srm.ac.in,56,Female,51,14,No,Books,Coimbatore,147,36
+941,user941@kpriet.ac.in,60,Female,179,141,Yes,Books,New Delhi,111,17
+942,user942@outlook.com,50,Female,90,133,Yes,Groceries,Bangalore,241,94
+943,user943@outlook.com,45,Female,172,35,No,Groceries,New Delhi,254,80
+944,user944@outlook.com,41,Male,27,28,No,Electronics,Kanpur,216,55
+945,user945@kpriet.ac.in,24,Female,61,128,No,Books,Chennai,113,10
+,,,,,,,,,,
+947,user947@yahoo.com,33,Male,62,38,Yes,Groceries,Bangalore,221,33
+948,user948@kpriet.ac.in,73,Male,83,159,Yes,Luxury & Beauty,Bangalore,42,34
+949,user949@srm.ac.in,76,Male,112,143,Yes,Books,New Delhi,142,49
+950,user950@srm.ac.in,59,Female,89,5,Yes,Groceries,New Delhi,100,84
+951,user951@srm.ac.in,25,Male,100,178,No,Luxury & Beauty,New Delhi,160,21
+952,user952@yahoo.com,43,Male,71,171,No,Electronics,Chennai,295,52
+953,user953@gmail.com,43,Male,154,115,No,Clothing,New Delhi,169,59
+954,user954@outlook.com,67,Female,80,138,No,Books,Tiruppur,54,11
+955,user955@yahoo.com,37,Female,123,112,No,Electronics,Tiruppur,131,33
+956,user956@outlook.com,46,Male,35,99,No,Electronics,Coimbatore,272,87
+957,user957@yahoo.com,72,Female,125,16,Yes,Books,Kanpur,230,55
+958,user958@outlook.com,35,Male,18,140,No,Clothing,Chennai,82,89
+959,user959@yahoo.com,25,Male,167,114,No,Luxury & Beauty,Salem,208,19
+960,user960@gmail.com,27,Female,154,63,No,Electronics,Chennai,59,69
+961,user961@kpriet.ac.in,19,Male,153,128,Yes,Electronics,Mumbai,73,27
+962,user962@srm.ac.in,67,Female,163,102,Yes,Clothing,Kanpur,278,10
+963,user963@outlook.com,32,Male,23,94,No,Luxury & Beauty,Kanpur,186,81
+964,user964@yahoo.com,66,Female,125,155,Yes,Electronics,New Delhi,229,94
+965,user965@gmail.com,21,Female,54,152,Yes,Clothing,Coimbatore,250,35
+966,user966@gmail.com,50,Male,133,30,Yes,Books,Chennai,104,82
+967,user967@srm.ac.in,54,Female,35,113,Yes,Clothing,New Delhi,149,90
+968,user968@yahoo.com,18,Male,179,39,No,Clothing,Kanpur,126,83
+969,user969@kpriet.ac.in,80,Male,102,70,Yes,Groceries,New Delhi,279,25
+970,user970@outlook.com,79,Female,140,127,Yes,Electronics,New Delhi,42,92
+971,user971@kpriet.ac.in,47,Female,81,64,No,Luxury & Beauty,Tiruppur,256,48
+972,user972@hotmail.com,48,Male,110,26,No,Books,Chennai,33,73
+973,user973@gmail.com,30,Female,18,77,Yes,Groceries,Chennai,57,85
+974,user974@gmail.com,32,Male,43,158,No,Clothing,Kanpur,256,83
+975,user975@srm.ac.in,56,Male,40,144,No,Books,Salem,215,66
+976,user976@yahoo.com,75,Male,56,109,Yes,Luxury & Beauty,Mumbai,195,78
+977,user977@hotmail.com,38,Male,92,70,Yes,Books,Coimbatore,224,21
+978,user978@hotmail.com,25,Female,109,53,Yes,Books,Kanpur,119,54
+,,,,,,,,,,
+980,user980@yahoo.com,27,Male,122,6,No,Luxury & Beauty,Mumbai,39,41
+981,user981@outlook.com,40,Male,41,152,Yes,Clothing,New Delhi,25,56
+982,user982@gmail.com,73,Female,85,138,No,Electronics,Salem,148,49
+983,user983@yahoo.com,13,Male,51,35,No,Electronics,New Delhi,78,4
+984,user984@hotmail.com,56,Male,25,138,No,Clothing,Kanpur,89,78
+985,user985@gmail.com,80,Female,129,6,Yes,Groceries,Chennai,187,32
+986,user986@gmail.com,57,Male,90,101,Yes,Luxury & Beauty,Bangalore,257,10
+987,user987@hotmail.com,69,Female,166,172,No,Books,Coimbatore,268,35
+988,user988@hotmail.com,80,Male,50,57,No,Groceries,Tiruppur,256,16
+989,user989@gmail.com,26,Female,85,85,No,Luxury & Beauty,New Delhi,54,69
+,,,,,,,,,,
+991,user991@kpriet.ac.in,18,Male,19,97,Yes,Books,New Delhi,300,88
+992,user992@kpriet.ac.in,49,Female,6,32,Yes,Groceries,Tiruppur,144,71
+993,user993@gmail.com,60,Male,120,44,No,Groceries,Tiruppur,244,53
+994,user994@outlook.com,71,Male,75,114,No,Groceries,Salem,91,9
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,27,113,Yes,Luxury & Beauty,Salem,71,100
